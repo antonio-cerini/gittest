@@ -1,0 +1,1 @@
+https://proxypmoncer.rfi.it/DotNet/proxy.ashx?https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer?f=json
